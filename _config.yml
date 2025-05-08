@@ -1,0 +1,27 @@
+# Theme
+remote_theme: just-the-docs/just-the-docs
+
+#title: "Maria Jose Teran · Data Analyst"
+#title: "Maria Jose Teran&#10;Data Analyst"
+
+
+description: "Data Science Portfolio - Projects, Resume, and Skills"
+
+logo: "/assets/img/logo.png"
+favicon_ico: "/assets/img/favicons/favicon.ico"
+
+color_scheme: light
+
+nav_external_links:
+  - title: GitHub
+    url: https://github.com/mjteran
+  - title: LinkedIn
+    url: https://linkedin.com/in/majoteran92
+show_downloads: true 
+
+plugins:
+  - jekyll-remote-theme
+
+# just_the_docs:
+#   custom_css:
+#     - /assets/css/custom.css
