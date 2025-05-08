@@ -19,7 +19,3 @@ show_downloads: true
 
 plugins:
   - jekyll-remote-theme
-
-# just_the_docs:
-#   custom_css:
-#     - /assets/css/custom.css
