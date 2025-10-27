@@ -27,29 +27,43 @@ Data Analyst based in Vancouver with a background in Telecommunications Engineer
 **Cornerstone International Community College of Canada – Vancouver, BC**  
 *Diploma in Data Science Co-op* (Expected: 2025)
 
-**Escuela Politécnica Nacional – Quito, Ecuador**  
+**National Polytechnic School University – Quito, Ecuador**  
 *B.Sc. in Telecommunications Engineering* (2011–2016)
 
 ---
 
 ## 📊 Projects
 
-### 1. [Student Performance Analysis](https://github.com/mjteran/students_performance-PSQL)
-Explored the impact of demographic and socioeconomic factors on academic performance using PostgreSQL and visualized patterns using Seaborn.  
-[Notebook Link](https://github.com/mjteran/students_performance-PSQL/blob/main/PSQL_Students_Performance.ipynb)
+### 1. [Telecom Customer Churn Dashboard](https://github.com/mjteran/telecom-churn-predictor)
+Predicted telecom customer churn and built an interactive dashboard for business insights. Engineered new features (GeoCluster, Tenure Bands) improving F1 to 0.93 (AUC 0.96). Built Streamlit dashboard with live churn prediction and visual analytics.  
+[🔗 GitHub Repository](https://github.com/mjteran/telecom-churn-predictor) 
+[🔗 Slides Report + Dashboard video](https://docs.google.com/presentation/d/15nHl9ydwYCIzIfBo-hEmODlNJwKqVoqxpElqfxdKs_o/edit?usp=sharing)
 
----
-
-### 2. [Weather Insights in Forbes Top 100 Cities](https://github.com/mjteran/Weather-Insights_Big-Query)
-Analyzed weather trends (2020–2024) including solar radiation, wind, temperature, and precipitation across major cities. Cleaned data and ran queries in BigQuery.  
-[Report PDF](https://github.com/mjteran/Weather-Insights_Big-Query/blob/main/Weather%20Insights%20in%20Forbes%20Top%20100%20Cities.pdf)
-[Tableau Dashboard](https://public.tableau.com/app/profile/maria.jose.teran/viz/Weather_Insights_Dashboard/Insights)
-
----
+### 2. [Loan Approval Prediction Using Machine Learning](https://github.com/mjteran/loan_approval_ML) *Team Project*
+Predicted bank loan approvals using machine learning models, applying preprocessing, feature engineering, SMOTE balancing, and hyperparameter tuning to improve classification accuracy.
+[🔗 GitHub Repository](https://github.com/mjteran/loan_approval_ML)
+[🔗 PDF Report](https://github.com/mjteran/loan_approval_ML/blob/main/Project%20Report_loan_approval_ML.pdf)
 
 ### 3. [Health and Lifestyle Data Analysis](https://github.com/mjteran/correlation_hypotheses_EDA)
 Analyzed relationships between health outcomes and lifestyle variables like smoking, exercise, and BMI. Used hypothesis testing and correlation analysis in Python.  
-[Notebook Link](https://github.com/mjteran/correlation_hypotheses_EDA/blob/main/correlation_hypotheses_testing_healthy_lifestyle.ipynb)
+[🔗 Notebook Link](https://github.com/mjteran/correlation_hypotheses_EDA/blob/main/correlation_hypotheses_testing_healthy_lifestyle.ipynb)
+
+### 4. [Weather Insights in Forbes Top 100 Cities](https://github.com/mjteran/Weather-Insights_Big-Query)
+Analyzed weather trends (2020–2024) including solar radiation, wind, temperature, and precipitation across major cities. Cleaned data and ran queries in BigQuery.  
+[🔗 Report PDF](https://github.com/mjteran/Weather-Insights_Big-Query/blob/main/Weather%20Insights%20in%20Forbes%20Top%20100%20Cities.pdf)
+[🔗 Tableau Dashboard](https://public.tableau.com/app/profile/maria.jose.teran/viz/Weather_Insights_Dashboard/Insights)
+
+### 5. [Student Performance Analysis](https://github.com/mjteran/students_performance-PSQL)
+Explored the impact of demographic and socioeconomic factors on academic performance using PostgreSQL and visualized patterns using Seaborn.  
+[🔗 Notebook Link](https://github.com/mjteran/students_performance-PSQL/blob/main/PSQL_Students_Performance.ipynb)
+
+---
+
+
+
+---
+
+
 
 ---
 
