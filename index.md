@@ -59,20 +59,6 @@ Explored the impact of demographic and socioeconomic factors on academic perform
 
 ---
 
-
-
----
-
-
-
----
-
-### 4. [Loan Approval Prediction](https://github.com/mjteran/loan_approval_ML)
-Predicted loan approval outcomes using demographic and financial features. Applied classification models such as logistic regression and decision trees, evaluated using accuracy and confusion matrix.  
-[Report PDF](https://github.com/mjteran/loan_approval_ML/blob/main/Project%20Report_loan_approval_ML.pdf)
-
----
-
 ## 📫 Contact
 
 Feel free to reach out via [GitHub](https://github.com/mjteran) or email: makuteran@hotmail.com.
