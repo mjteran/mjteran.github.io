@@ -39,7 +39,7 @@ Predicted telecom customer churn and built an interactive dashboard for business
 [🔗 GitHub Repository](https://github.com/mjteran/telecom-churn-predictor) 
 [🔗 Slides Report + Dashboard video](https://docs.google.com/presentation/d/15nHl9ydwYCIzIfBo-hEmODlNJwKqVoqxpElqfxdKs_o/edit?usp=sharing)
 
-### 2. [Loan Approval Prediction Using Machine Learning](https://github.com/mjteran/loan_approval_ML) *Team Project*
+### 2. [Loan Approval Prediction Using Machine Learning](https://github.com/mjteran/loan_approval_ML) (*Team Project*)
 Predicted bank loan approvals using machine learning models, applying preprocessing, feature engineering, SMOTE balancing, and hyperparameter tuning to improve classification accuracy.
 [🔗 GitHub Repository](https://github.com/mjteran/loan_approval_ML)
 [🔗 PDF Report](https://github.com/mjteran/loan_approval_ML/blob/main/Project%20Report_loan_approval_ML.pdf)
